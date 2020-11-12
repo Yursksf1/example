@@ -1,4 +1,3 @@
-print('este es mi error')
 import random
 res = int(input('En que numero estoy pensando?'))
 print('Numero pensado', res, "\n\n")

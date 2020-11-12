@@ -8,3 +8,4 @@ while True:
     if ran == res:
         break
 print("Felicitaciones..Ganaste...se ha adivinado el numero ", res)
+print('hola andres')
